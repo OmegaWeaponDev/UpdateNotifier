@@ -1,28 +1,26 @@
-![OmegaWarps Header Image](https://i.imgur.com/Z2TBr3E.png)
+![UpdateNotifier Header Image](https://i.imgur.com/jHJxY4M.png)
 
 # **UpdateNotifier**
 
 UpdateNotifier is a modern unique plugin that allows you to keep player up to date with any changes made to the server!
 
-For further information about this plugin, please see the [wiki](https://github.com/OmegaWeaponDev/OmegaWarps/wiki). Where you are able to find all the in depth information about UpdateNotifier, all the commands and permissions as well.
+For further information about this plugin, please see the [wiki](https://omegaweapondev.gitbook.io/plugin-wiki-s/plugins-docs/updatenotifier). Where you are able to find all the in depth information about UpdateNotifier, all the commands and permissions as well.
 
 ***
 
 Below is a brief list of the features that are included in the plugin
 
-    * Set Default & Player Owned warps
+    * Full PlaceholderAPI Support
     
-    * Make players pay for thier own warps
+    * Add/Remove Change Log Messages
     
-    * Check information about specific warps
+    * Broadcast messages
     
-    * Pre & Post warp effects
+    * Announcement Messages
     
-    * Delete specific warps
+    * Add/Remove Upcoming Update Messages
     
-    * Delete all warps with one command
-    
-    * List all warps that are currently on the server
+    * Full Hex/RGB support
 
 ***
 
@@ -31,13 +29,12 @@ Below is a brief list of the features that are included in the plugin
 ### Downloading:
 
 You can always find the latest version by visiting the [spigot](https://www.spigotmc.org/resources/omeganames.78327/)
-page. This plugin works on all Bukkit/Spigot/Paper servers from version 1.13 and above.
+page. This plugin works on all Bukkit/Spigot/Paper servers from version 1.8.8 and above.
 
 ### Installing:
 
-When it comes to installing the plugin, Simply drop the OmegaWarps-[version number].jar into your servers plugin folder and then start your server.
+When it comes to installing the plugin, Simply drop the UpdateNotifier-[version number].jar into your servers plugin folder and then start your server.
 
-Notes: If you want players to pay for their own warps you will also need to install [Vault](https://www.spigotmc.org/resources/vault.34315/) as well.
 
 ### Updating:
 
@@ -62,7 +59,7 @@ Of course, we have the normal contact method of using the SpigotMC website. You 
 
 ### **GitHub**
 
-As you can tell, I also have set everything here on git hub as well. So if you need any support feel free to post a issue for the related plugin
+As you can tell, I also have set everything here on github as well. So if you need any support feel free to post an issue for the related plugin
 
 ***
 
