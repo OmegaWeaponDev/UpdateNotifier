@@ -1,0 +1,6 @@
+name: ${name}
+version: ${version}
+api-version: ${apiVersion}
+description: A modern warps plugins
+main: ${mainClass}
+author: ${author}
