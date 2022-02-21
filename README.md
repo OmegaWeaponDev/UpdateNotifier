@@ -1,4 +1,4 @@
-![UpdateNotifier Header Image](https://i.imgur.com/jHJxY4M.png)
+![UpdateNotifier Header Image](https://i.imgur.com/BAD0XeX.png)
 
 # **UpdateNotifier**
 
